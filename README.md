@@ -7,6 +7,7 @@
 - Easy checklist
 -longpress to delete the task
 -Provider for state management
+- Awesome UI
 
 ## Download apk 
 - https://www.shorturl.at/nyBDK
